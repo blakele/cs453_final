@@ -1,3 +1,5 @@
-Main code is in learnply.cpp\n
-run in visual studio\n
+Main code is in learnply.cpp.
+
+run in visual studio.
+
 implements msh colorspace to help visualize data
